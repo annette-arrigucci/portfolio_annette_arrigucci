@@ -272,6 +272,9 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Home\Portfolio.cshtml" />
+    <Content Include="Views\Home\Exercises.cshtml" />
+    <Content Include="Views\Home\Resume.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".vscode\" />
