@@ -75,10 +75,16 @@ header {
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
+ 
+}
+header .body-content {
+   margin-left: 0;
+   margin-right: 0;
 }
 header img {
   display: block;
   margin: 0 auto 20px;
+  border: 10px solid white;
 }
 header .intro-text .name {
   display: block;
